@@ -1,5 +1,4 @@
-spotasong 
-By Will Dravenstott
+spotasong
 
 A website to discover new genres, artists, and music that hasn't been played.
 Songs with very low play counts (< 10 plays) will be displayed and allow people to branch out their music taste, one song at a time
